@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kostya Gerasimov
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning Tableu 
 
 <!---
 RareM3xxxError/RareM3xxxError is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
